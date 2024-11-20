@@ -1,0 +1,7 @@
+{
+  "UserProfile": {
+    "title": "{firstName}'s profile",
+    "membership": "Member since {memberSince, date, short}",
+    "followers": "{count, plural,\n=0 {No followers yet}\n=1 {One follower}\nother {# followers}\n}"
+  }
+}
